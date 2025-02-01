@@ -1,8 +1,8 @@
-# Automated Linux Hardening Script 🛡️  
+# Automated Linux Hardening Script   
 
 This **Automated Hardening Script** is a simple yet powerful **Linux security tool** that automatically analyzes and strengthens system security. It checks for potential vulnerabilities, enforces security policies, and generates a comprehensive **security report**.  
 
-## Features 🚀  
+## Features  
  **Firewall Status** – Checks if a firewall (UFW/IPTables) is enabled  
  **Running Processes** – Lists active processes for security auditing  
  **Users with Sudo Privileges** – Identifies users with root access  
@@ -11,7 +11,7 @@ This **Automated Hardening Script** is a simple yet powerful **Linux security to
  **Open Ports** – Lists active network ports and associated services  
  **Password Policies** – Ensures strong password configurations  
 
-## Installation 🛠️  
+## Installation   
 1. Clone the repository:  
    ```sh
    git clone https://github.com/yourusername/linux-hardening-script.git
